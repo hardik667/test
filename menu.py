@@ -5,8 +5,8 @@ order now
 ____________________
 '''
 
-starters = {'tomato soup': 5,
-            'green chilly soup': 7,
+starters = {'Tomato Soup': 5,
+            'Green chilly soup': 7,
             'salad': 10}
 
 maincourse={'extra cheese pan pizza': 20,
